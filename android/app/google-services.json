@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991607031482",
+    "project_id": "bobo-b1d27",
+    "storage_bucket": "bobo-b1d27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991607031482:android:d8813f863f381c42c2e483",
+        "android_client_info": {
+          "package_name": "com.example.google_captch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991607031482-9v7n97cj03tfp0b3bc4tp4o02c1lhdd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuYypaGcWe4QX9R7JihIefheLZ4zscBKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991607031482-9v7n97cj03tfp0b3bc4tp4o02c1lhdd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
